@@ -1,0 +1,18 @@
+{
+  "name": "taskapp",
+  "version": "1.0.0",
+  "description": "My task app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express": "*",
+    "mongojs": "*",
+    "cors":"*",
+    "body-parser": "*",
+    "ejs": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
